@@ -1,22 +1,27 @@
-# DS612-MATEMATICA-PARA-COMPUTACAO
-Disciplina do primeiro período do curso
+# DS612 - Matemática para Computação
 
-Conteúdos:
-- Teoria De Conjuntos, 
-- Matrizes e Análise Combinatória; e programa: 
-- Teoria De Conjuntos (10hs): 
-- definições, 
-- propriedades, 
-- operações, 
-- produto cartesiano, 
-- cardinalidade, 
-- relações e funções, 
-- domínio e imagem; 
-- Matrizes (10hs): 
-- Definição, 
-- tipos especiais (nula, identidade, diagonal, triangular), 
-- operações (soma, subtração, transposição, multiplicação) e determinante; 
-- Análise Combinatória (10hs): 
-- princípio multiplicativo, 
-- permutações, 
-- combinações e arranjos.
+**Disciplina do primeiro período do curso**
+
+### Conteúdos
+- **Teoria de Conjuntos (10h)**
+  - Definições
+  - Propriedades
+  - Operações
+  - Produto Cartesiano
+  - Cardinalidade
+  - Relações e Funções
+  - Domínio e Imagem
+
+- **Matrizes (10h)**
+  - Definição
+  - Tipos Especiais (nula, identidade, diagonal, triangular)
+  - Operações (soma, subtração, transposição, multiplicação)
+  - Determinante
+
+- **Análise Combinatória (10h)**
+  - Princípio Multiplicativo
+  - Permutações
+  - Combinações
+  - Arranjos
+
+---
